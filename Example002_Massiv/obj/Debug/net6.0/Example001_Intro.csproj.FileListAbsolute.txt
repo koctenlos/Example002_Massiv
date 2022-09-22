@@ -1,0 +1,15 @@
+C:\Users\Danil\Desktop\GB\C# lekciya 2\Example001_Intro\obj\Debug\net6.0\Example001_Intro.csproj.AssemblyReference.cache
+C:\Users\Danil\Desktop\GB\C# lekciya 2\Example001_Intro\obj\Debug\net6.0\Example001_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\Desktop\GB\C# lekciya 2\Example001_Intro\obj\Debug\net6.0\Example001_Intro.AssemblyInfoInputs.cache
+C:\Users\Danil\Desktop\GB\C# lekciya 2\Example001_Intro\obj\Debug\net6.0\Example001_Intro.AssemblyInfo.cs
+C:\Users\Danil\Desktop\GB\C# lekciya 2\Example001_Intro\obj\Debug\net6.0\Example001_Intro.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\GB\C# lekciya 2\Example001_Intro\bin\Debug\net6.0\Example001_Intro.exe
+C:\Users\Danil\Desktop\GB\C# lekciya 2\Example001_Intro\bin\Debug\net6.0\Example001_Intro.deps.json
+C:\Users\Danil\Desktop\GB\C# lekciya 2\Example001_Intro\bin\Debug\net6.0\Example001_Intro.runtimeconfig.json
+C:\Users\Danil\Desktop\GB\C# lekciya 2\Example001_Intro\bin\Debug\net6.0\Example001_Intro.dll
+C:\Users\Danil\Desktop\GB\C# lekciya 2\Example001_Intro\bin\Debug\net6.0\Example001_Intro.pdb
+C:\Users\Danil\Desktop\GB\C# lekciya 2\Example001_Intro\obj\Debug\net6.0\Example001_Intro.dll
+C:\Users\Danil\Desktop\GB\C# lekciya 2\Example001_Intro\obj\Debug\net6.0\refint\Example001_Intro.dll
+C:\Users\Danil\Desktop\GB\C# lekciya 2\Example001_Intro\obj\Debug\net6.0\Example001_Intro.pdb
+C:\Users\Danil\Desktop\GB\C# lekciya 2\Example001_Intro\obj\Debug\net6.0\Example001_Intro.genruntimeconfig.cache
+C:\Users\Danil\Desktop\GB\C# lekciya 2\Example001_Intro\obj\Debug\net6.0\ref\Example001_Intro.dll
